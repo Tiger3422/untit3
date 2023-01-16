@@ -1,0 +1,16 @@
+hr{
+    width: 100%;
+}
+
+#We{ 
+    font-size: 200%;
+    
+    
+}
+
+#header{
+    display:inline-block;
+    text-align: left;
+    padding-left: 5cm;
+    padding-right: 5cm;
+}
