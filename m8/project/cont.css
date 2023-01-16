@@ -3,14 +3,21 @@ hr{
 }
 
 #We{ 
-    font-size: 200%;
+    font-size: 150%;
     
     
 }
 
-#header{
+#all{
     display:inline-block;
     text-align: left;
     padding-left: 5cm;
     padding-right: 5cm;
+    font-size: 110%;
+    
+}
+
+.end_of_a{
+    position: relative;
+    top: 0.3cm;
 }
