@@ -1,0 +1,13 @@
+body{
+    background-color: navy;
+    color: white;
+}
+
+#magic{
+    color: rgb(255, 0, 0);
+}
+
+.why{
+    position: relative;
+    top: 2cm;
+}
