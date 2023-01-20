@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="l2.css">
+    <title>Selectors</title>
+
+    <style>
+        p{
+            font-size: red;
+        }
+
+        h1+h2{
+            color:red;
+        }
+
+        .chazz>p{
+            color:blue;
+        }
+
+        h3~p{
+            color: green;
+        }
+
+
+
+    </style>
+</head>
+
+
+
+<body>
+    <h1>I am a person</h1>
+    <h2> I am controlled by that person</h2>
+
+    <div class="chazz">
+        <p>I am worthy of blue</p>
+        <p> So am I</p>
+    </div>
+
+    <p>I am normal red</p>
+
+    <div>
+        <h3>This is confusing</h3>
+        <p>But it works i guess</p>
+
+    </div>
+
+</body>
+
+
+</html>
