@@ -1,0 +1,29 @@
+body{
+    background-color: paleturquoise;
+}
+#north{
+    padding-left: 2cm;
+    background-color: black;
+    color: red;
+    text-align: center;
+    margin-bottom: 0;
+}
+#newhope{
+    padding-left: 2cm;
+    background-color: gold;
+    color: blue;
+    text-align: center;
+    margin-bottom: 0;
+}
+#chazz{
+    background-color: rgb(17, 15, 15);
+    color: rgb(255, 255, 255);
+    
+}
+.list{
+    background-color: lightgray;
+    margin: 0%;
+}
+ul{
+    
+}
